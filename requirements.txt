@@ -1,5 +1,5 @@
 alabaster==0.7.10
-Babel==2.4.0
+Babel==2.9.1
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 basemap==1.1.0
